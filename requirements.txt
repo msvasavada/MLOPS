@@ -6,5 +6,10 @@ scikit-learn
 catboost
 xgboost
 Flask
+fastapi
+uvicorn[standard]
+#scikit-learn
+#pandas
+joblib
 
 #-e .
